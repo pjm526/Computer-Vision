@@ -6,8 +6,8 @@ a. Histogram and CDF of the given image <br/>
 b. Image Thresholding using Otsu’s Method <br/>
 
 # Assignment 2
-Image Smoothing performed using Box filtering and Gaussian filtering <br/>
-Edges in the image were detected using Laplacian Edge Detection Method <br/>
+a. Image Smoothing performed using Box filtering and Gaussian filtering <br/>
+b. Edges in the image were detected using Laplacian Edge Detection Method <br/>
 
 # Assignment 3
 Linear image transformations: The purpose of this assignment was to learn about linear geometric image transformations <br/>
