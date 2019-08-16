@@ -13,4 +13,4 @@ Edges in the image were detected using Laplacian Edge Detection Method
 Linear image transformations: The purpose of this assignment was to learn about linear geometric image transformations.
 a. Affine Image Transformation
 b. Affine transformation with resampling
-c. Calculation of affine (linear) transform from landmarks selected on the image.
+c. Calculation of affine (linear) transform from landmarks selected on the image
