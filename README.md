@@ -1,4 +1,3 @@
-# Computer-Vision
 # Computer Vision Assignments
 Built in libraries for image processing are not used in any of the assignments
 
